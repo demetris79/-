@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Моя работа на HTML & CSS](https://https://github.com/demetris79/-/)
+[Моя работа на HTML & CSS](https://github.com/demetris79/-/)
